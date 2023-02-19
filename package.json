@@ -1,0 +1,20 @@
+{
+  "name": "editor-blog",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueup/vue-quill": "^1.1.0",
+    "quill-blot-formatter": "^1.0.5",
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.1.0"
+  }
+}
